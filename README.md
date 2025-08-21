@@ -2,7 +2,7 @@
 
 🌍 Based in Addis Ababa, Ethiopia.  
 
-🎓 Software Engineering Student | 💻 Full-Stack Developer | 🎨 Front-End Enthusiast  
+🎓 Software Engineering Student | 💻 Full-Stack Developer   
 
 🚀 About Me
 
