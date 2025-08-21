@@ -15,7 +15,7 @@ Programming Languages:
 
 Web Development:  
 
-📄 HTML5 | 🎨 CSS3 | ⚛️ React | 🚀 Tailwind CSS  
+📄 HTML5 | 🎨 CSS3 | ⚛️ React | 🚀 Tailwind CSS | Django 
 
 Mobile Development:  
 
