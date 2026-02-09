@@ -90,7 +90,7 @@ Media/content-related project focused on user interaction.
 Tools and utilities for student productivity.
 
 🔹 **QR Code Generator**  
-> JavaScript  
+> Python  
 Generate QR codes dynamically for different use cases.
 
 ---
