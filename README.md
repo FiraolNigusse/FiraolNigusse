@@ -7,7 +7,6 @@ Backend Software Engineer | Python • FastAPI • Django • Laravel
 <p align="center">
 🇪🇹 Addis Ababa, Ethiopia <br>
 🎓 BSc in Software Engineering <br>
-💼 Backend Developer Intern <br>
 🚀 Building scalable backend systems, APIs, and business software
 </p>
 
@@ -140,15 +139,14 @@ A SaaS platform helping Ethiopian small businesses digitize their operations.
 
 # 📈 Currently Learning
 
-- Docker
-- Redis
-- CI/CD
-- AWS
-- Kubernetes
-- Distributed Systems
-- System Design
-- Machine Learning
-
+- Advanced Backend Architecture
+- System Design & Scalable Systems
+- Docker & Containerized Applications
+- CI/CD Automation
+- Cloud Deployment (AWS)
+- Distributed Systems Concepts
+- Performance Optimization
+- AI Integration into Backend Applications
 ---
 
 # 📊 GitHub Stats
