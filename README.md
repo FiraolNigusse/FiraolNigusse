@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Firaol Nigusse</h1>
 
 <h3 align="center">
-Backend Software Engineer | Python • FastAPI • Django • Laravel
+Backend Software Engineer
 </h3>
 
 <p align="center">
